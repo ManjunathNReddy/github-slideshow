@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+![](https://i.imgflip.com/6c2xio.jpg) \
 Use the left arrow to go back!
